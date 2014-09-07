@@ -1,0 +1,33 @@
+
+/* Class = "IBUILabel"; text = "区分代号："; ObjectID = "Dah-mM-KwZ"; */
+"Dah-mM-KwZ.text" = "区分代号：";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "HmA-oj-cX2"; */
+"HmA-oj-cX2.text" = "2";
+
+/* Class = "IBUILabel"; text = "· 记忆密码：可选择一个简单易记的密码，用于生成其他高强度密码。"; ObjectID = "R6g-1W-u3g"; */
+"R6g-1W-u3g.text" = "· 记忆密码：可选择一个简单易记的密码，用于生成其他高强度密码。";
+
+/* Class = "IBUILabel"; text = "+"; ObjectID = "S7l-Sf-Slw"; */
+"S7l-Sf-Slw.text" = "+";
+
+/* Class = "IBUILabel"; text = "· 区分代号：用于区别不同用途密码的简短代号，如淘宝账号可用“taobao”或“tb”等。"; ObjectID = "Urz-Xf-l62"; */
+"Urz-Xf-l62.text" = "· 区分代号：用于区别不同用途密码的简短代号，如淘宝账号可用“taobao”或“tb”等。";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "V6d-7b-gP7"; */
+"V6d-7b-gP7.text" = "1";
+
+/* Class = "IBUILabel"; text = "获取"; ObjectID = "Zv9-bA-3wh"; */
+"Zv9-bA-3wh.text" = "获取";
+
+/* Class = "IBUILabel"; text = "输入"; ObjectID = "ghp-iC-w94"; */
+"ghp-iC-w94.text" = "输入";
+
+/* Class = "IBUIButton"; normalTitle = "点击复制"; ObjectID = "nH8-yS-JJs"; */
+"nH8-yS-JJs.normalTitle" = "点击复制";
+
+/* Class = "IBUILabel"; text = "记忆密码："; ObjectID = "xqG-g5-Fz9"; */
+"xqG-g5-Fz9.text" = "记忆密码：";
+
+/* Class = "IBUILabel"; text = "花密"; ObjectID = "zaS-hI-M67"; */
+"zaS-hI-M67.text" = "花密";
